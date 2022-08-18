@@ -1,0 +1,72 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Windflower Resorts & Spa Vythiri Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641.label = Windflower
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_0.label = Lounge Area Side
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_1.label = Lounge Outside View
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_10.label = Close View
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_11.label = Bed Room Daylight
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_2.label = Night Front Wide View
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_3.label = Pool Back Day
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_4.label = Room Outside View
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_5.label = Spa Front Outdoor Day
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_6.label = waynad budha
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_7.label = Wide Side Profile
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_8.label = Y3 CHESS
+album_ABE554CF_B5B0_AF52_41BC_1AA8302BF641_9.label = Front View
+panorama_BE1F9D79_B550_B93E_41A3_53112D86F1D5.label = Reception
+panorama_BF0D014B_B553_6952_41DF_F89496F29B64.label = Banquest Area
+panorama_BF0D0878_B550_A73E_41E1_EABA05FB408A.label = Campfire Dining Area
+panorama_BF0D0B5E_B550_F972_41C2_6928D43BC4FA.label = Restaurant
+panorama_BF0D105F_B553_E772_417C_04CF55C99042.label = The Windflower Villa
+panorama_BF0D1654_B553_AB76_41D8_0F8E8FED9D3A.label = The Windflower Villa
+panorama_BF0D2C07_B553_7ED2_41D7_F5CFD4BE7151.label = The Windflower Suite
+panorama_BF0D3AEF_B553_9B52_41D1_A4604F153BEC.label = The Windflower Suite
+panorama_BF0D4CFB_B550_9F32_41D8_CEE7B8ECA7F4.label = Restaurant
+panorama_BF0D5454_B553_6F76_41E3_895C5F14150C.label = Banquest Hall
+panorama_BF0D6F48_B550_995E_41DC_ADA2319E9104.label = Porch
+panorama_BF0D795F_B553_9972_41CB_6170201B6F6A.label = The Windflower Villa
+panorama_BF0DA306_B553_AAD2_41DB_67341EE7EBDB.label = The Windflower Villa
+panorama_BF0DC837_B553_A732_41E5_9852DAAD8464.label = Balcony with Jacuzzi - The Windflower Villa
+panorama_BF0DD636_B553_AB32_41D9_0B9EC47EF953.label = Corridoor
+panorama_BF0DDD51_B553_F94E_41E2_4DB234DD8B42.label = Balcony - The Windflower Villa
+panorama_BF0E9EDE_B550_9B72_41C0_4EBCF70DC430.label = The Windflower Suite
+panorama_BF0ED367_B550_A952_41D0_FDBDF76C096E.label = Spa - Reception
+panorama_BF0EE145_B550_A956_41E0_6A0A632A087E.label = Balcony - The Windflower Suite
+panorama_BF0EF9AE_B550_F9D2_41D7_B8BFC56BC52C.label = Spa
+panorama_BF0F26A4_B550_EBD6_41A9_77EE484976CE.label = Spa
+panorama_BF32C6DB_B550_AB72_4192_9535457B50AF.label = Indoor Games
+panorama_BF32CA05_B550_9AD6_41E0_7340AA0EFDEF.label = Restaurant
+panorama_BF330BA0_B550_99CE_41C5_4CA825842717.label = Lobby
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.thewindflower.com/vythiri/index.htm
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.thewindflower.com/vythiri/index.htm
